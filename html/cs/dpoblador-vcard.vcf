@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//macOS 12.5//EN
+N:Poblador i Garcia;David;;;
+FN:David Poblador i Garcia
+EMAIL;type=INTERNET;type=HOME;type=pref:david@poblador.com
+TEL;type=CELL;type=VOICE;type=pref:+34 637317357
+TEL;type=IPHONE;type=CELL;type=VOICE:+46761488445
+X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/davidpoblador
+X-SOCIALPROFILE;type=twitter:http://twitter.com/davidpoblador
+item1.URL;type=pref:https://www.linkedin.com/in/davidpoblador
+item1.X-ABLabel:LinkedIn
+item2.URL:https://davidpoblador.com
+item2.X-ABLabel:Website
+item3.URL:https://twitter.com/davidpoblador
+item3.X-ABLabel:Twitter
+BDAY:1980-09-23
+END:VCARD
