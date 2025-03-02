@@ -6,8 +6,8 @@
     "tailwindcss": "^4.0.9"
   },
   "scripts": {
-    "build:css": "tailwindcss -i config/tailwind.config.css --minify -o docs/css/bundle.css",
-    "build:js": "esbuild config/esbuild.config.js --bundle --minify --outfile=docs/js/bundle.js",
+    "build:css": "tailwindcss -i config/tailwind.config.css --minify -o docs/statics/css/bundle.css",
+    "build:js": "esbuild config/esbuild.config.js --bundle --minify --outfile=docs/statics/js/bundle.js",
     "build": "npm-run-all build:*"
   }
 }
